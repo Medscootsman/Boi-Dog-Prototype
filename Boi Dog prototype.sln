@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Boi Dog prototype", "Boi Dog prototype\Boi Dog prototype.vcxproj", "{99755790-725A-48F5-A66B-2B3820FF49E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99755790-725A-48F5-A66B-2B3820FF49E3}.Debug|x64.ActiveCfg = Debug|x64
+		{99755790-725A-48F5-A66B-2B3820FF49E3}.Debug|x64.Build.0 = Debug|x64
+		{99755790-725A-48F5-A66B-2B3820FF49E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{99755790-725A-48F5-A66B-2B3820FF49E3}.Debug|x86.Build.0 = Debug|Win32
+		{99755790-725A-48F5-A66B-2B3820FF49E3}.Release|x64.ActiveCfg = Release|x64
+		{99755790-725A-48F5-A66B-2B3820FF49E3}.Release|x64.Build.0 = Release|x64
+		{99755790-725A-48F5-A66B-2B3820FF49E3}.Release|x86.ActiveCfg = Release|Win32
+		{99755790-725A-48F5-A66B-2B3820FF49E3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0483779B-A995-4B7A-BCB2-C6C33C3B286A}
+	EndGlobalSection
+EndGlobal
